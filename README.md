@@ -6,6 +6,6 @@
 - 💬 Ask me about Android, Flutter or Machine Learning.
 - 📫 How to reach me: [Twitter](https://twitter.com/sakarayajitesh), [Instagram](https://www.instagram.com/s_ajitesh), [LinkedIn](https://www.linkedin.com/in/ajitesh-sakaray/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can tell alphabets in reverse (zyxwv..) in just 4 seconds. 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sakarayajitesh&&show_icons=true&icon_color=737373&title_color=226e39&text_color=737373&bg_color=DEFFE7&hide=[%22prs%22])
