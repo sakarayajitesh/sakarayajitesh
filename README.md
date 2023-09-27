@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Drape.<br>🌱 I’m currently learning more about Flutter.<br>👯 I’m looking to collaborate on Flutter projects.<br>💬 Ask me about Android, Flutter or Machine Learning.<br>📫 How to reach me: sakarayajitesh@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can spell out the alphabet in reverse.
+🔭 I’m currently working on Drape.<br>🌱 I’m currently learning more about Android.<br>👯 I’m looking to collaborate on Android projects.<br>💬 Ask me about Android, Flutter or Machine Learning.<br>📫 How to reach me: sakarayajitesh@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can spell out the alphabet in reverse.
 
 
 ## 🌐 Socials:
